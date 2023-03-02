@@ -1,16 +1,18 @@
-### Hi there 👋
+=== 🤠 Howdy! === 
 
-<!--
-**shrimpactivity/shrimpactivity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Raised on Java, student of Python, now a self taught web developer. The journey of learning never ends.
 
-Here are some ideas to get you started:
+=== 🦉 What I know  ===
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`JS / React / Node / Express / HTML / CSS / Java / SQL / NoSQL / MongoDB / Git`
+
+=== 🐀 What I'm Learning ===
+
+`Typescript / GraphQL / React Native / Firebase` 
+
+=== 🦀 Who I am ===
+- Some might call me a professional dilettante. I'm a dabbler in acting, painting, music production, and board gaming.
+- Guitar is my instrument of choice, but if I'm feeling crazy I'll pull out the banjo
+- I like to alternate between reading the classics and terrible sci-fi. 
+
+=== 🐝 Reach me at [carsoncrow@pm.me](mailto:carsoncrow@pm.me) ===
