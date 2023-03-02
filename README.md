@@ -4,16 +4,18 @@ Raised on Java, pupil of Python, now a self taught web developer. The journey of
 ### === 🦉 What I Know  ===
 `JS / React / Node / Express / HTML / CSS / Java / SQL / NoSQL / MongoDB / Git`
 
-### === 🐢 How I Learned It ===
+### === 🐀 What Else I'm Learning ===
+`Typescript / GraphQL / React Native / Firebase` .
+
+### === 🐢 My Favorite Resources ===
 UC Berkeley [CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) 
 - Check out [my course notes](https://github.com/shrimpactivity/cs61a)
+
 UC Berkeley [CS61B: Data Structures and Algorithms](https://sp21.datastructur.es/)
 - Check out [my course notes](https://github.com/shrimpactivity/cs61b)
+
 University of Helsinki [Full Stack Open](https://fullstackopen.com/en/)
 - Check out [my course notes](https://github.com/shrimpactivity/full-stack-open)
-
-### === 🐀 What Else I'm Learning ===
-`Typescript / GraphQL / React Native / Firebase` 
 
 ### === 🦀 Who I Am ===
 Some might call me a professional dilettante. I'm a dabbler in acting, painting, music production, and board gaming. Guitar is my instrument of choice, but if I'm feeling crazy I'll pull out the banjo. If you ask me what book I'm reading, there's a 50/50 chance it's either an old classic or terrible sci-fi.  
