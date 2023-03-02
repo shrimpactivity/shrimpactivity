@@ -1,4 +1,4 @@
-## === 🤠 Howdy! === 
+## === 🦐 Howdy! === 
 Raised on Java, pupil of Python, now a self taught web developer. The journey of learning never ends.
 
 ## === 🦉 What I Know  ===
