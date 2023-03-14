@@ -2,7 +2,7 @@
 Raised on Java, now a self taught web developer. The journey of learning never ends.
 
 ## === 🦉 What I Know  ===
-`JS / React / Node / Express / HTML / CSS / Java / SQL / NoSQL / MongoDB / Git`
+`JS / React / Node / Express / Java / SQL / NoSQL / MongoDB / Git`
 
 ## === 🐀 What I'm Working On ===
 `Typescript / GraphQL / React Native / Firebase `
