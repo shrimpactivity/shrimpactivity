@@ -1,9 +1,9 @@
 ## === 🦐 Howdy! === 
-Raised on Java, now a self taught web developer. I like building apps that 
+Raised on Java, now a self taught web developer. I like building whacky apps. 
 
 ## === 🦉 What I Know  ===
 ```
-JavaScript + React + Redux + Jest 
+JavaScript + React + Redux + React Router + Jest 
 Java + JUnit + Maven + Python + Node + Express 
 SQL + MongoDB
 Git + Bash + CI/CD + Github Actions
