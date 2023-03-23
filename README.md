@@ -1,11 +1,13 @@
 ## === 🦐 Howdy! === 
-Raised on Java, now a self taught web developer. The journey of learning never ends.
+Raised on Java, now a self taught web developer. I like building apps that 
 
 ## === 🦉 What I Know  ===
-`JS / React / Node / Express / Java / SQL / NoSQL / MongoDB / Git`
-
-## === 🐀 What I'm Working On ===
-`Typescript / GraphQL / React Native / Firebase `
+```
+JavaScript + React + Redux + Jest 
+Java + JUnit + Maven + Python + Node + Express 
+SQL + MongoDB
+Git + Bash + CI/CD + Github Actions
+```
 
 ## === 🦀 Who I Am ===
 - Some might call me a professional dabbler. I do a little acting, painting, music production, and board gaming. 
